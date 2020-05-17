@@ -56,6 +56,11 @@ Challenges ahead:
 
         style and positioning of the icon and text
  
+------------
+    V0.136
+
+        adding a loader component which has a defaultProp
+ 
 --------------------------------------------------------------
 
 ### `npm start`
