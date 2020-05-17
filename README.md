@@ -17,7 +17,15 @@ Challenges ahead:
         React setup
         
 ------------
+    V0.11
 
+        adding components and using geolocation api
+ 
+------------
+    V0.12
+
+        adding class based components
+ 
 --------------------------------------------------------------
 
 ### `npm start`
