@@ -61,6 +61,11 @@ Challenges ahead:
 
         adding a loader component which has a defaultProp
  
+------------
+    V0.137
+
+        helper function to render() to future proof any additional styling
+ 
 --------------------------------------------------------------
 
 ### `npm start`

@@ -15,21 +15,28 @@ class App extends React.Component {
 		);
 	}
 
-	//REQUIRED render always!!!!
-	render () {
+	//helper function
+	renderContent () {
 		//conditional rendering
 		if (this.state.errorMessage && !this.state.lat) {
 			return <div>Error Message: {this.state.errorMessage}</div>;
 		}
+
 		if (!this.state.errorMessage && this.state.lat) {
 			return <SeasonDisplay lat={this.state.lat} />; //using child component
 		}
+
 		return (
 			<Loader
 				loaderMsg="Please accept the location request"
 				size="large"
 			/>
 		);
+	}
+
+	//REQUIRED render always!!!!
+	render () {
+		return <div className="border red">{this.renderContent()}</div>;
 	}
 }
 
