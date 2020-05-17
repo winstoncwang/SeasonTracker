@@ -41,6 +41,11 @@ Challenges ahead:
 
         using lifecycle method and utilising seasondisplay(child component)
  
+------------
+    V0.133
+
+        season calculation based on the month and latitude
+ 
 --------------------------------------------------------------
 
 ### `npm start`
