@@ -46,6 +46,16 @@ Challenges ahead:
 
         season calculation based on the month and latitude
  
+------------
+    V0.134
+
+        refractor and use seasonConfig object to return text and icon
+ 
+------------
+    V0.135
+
+        style and positioning of the icon and text
+ 
 --------------------------------------------------------------
 
 ### `npm start`
