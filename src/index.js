@@ -21,7 +21,7 @@ class App extends React.Component {
 			return <div>Error Message: {this.state.errorMessage}</div>;
 		}
 		if (!this.state.errorMessage && this.state.lat) {
-			return <SeasonDisplay lat={this.state.lat} />;
+			return <SeasonDisplay lat={this.state.lat} />; //using child component
 		}
 		return <div>Loading.....</div>;
 	}
