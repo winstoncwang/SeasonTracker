@@ -3,13 +3,23 @@ import ReactDOM from 'react-dom';
 
 //class component
 class App extends React.Component {
-	render () {
+	constructor (props) {
+		super(props); //reference to the parent component React.Component
+
+		this.state = { lat: null }; //state object
+
 		window.navigator.geolocation.getCurrentPosition(
-			(position) => console.log(position),
+			(position) => {
+				// we cakked setState!!!!
+				this.setState({ lat: position.coords.latitude });
+			},
 			(error) => console.log(error)
 		);
+	}
 
-		return <div>Lattitude: </div>;
+	//REQUIRED render always!!!!
+	render () {
+		return <div>Lattitude: {this.state.lat}</div>;
 	}
 }
 
