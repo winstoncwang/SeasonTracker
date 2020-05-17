@@ -26,6 +26,21 @@ Challenges ahead:
 
         adding class based components
  
+------------
+    V0.13
+
+        updating state object and display
+ 
+------------
+    V0.131
+
+        conditional rendering
+ 
+------------
+    V0.132
+
+        using lifecycle method and utilising seasondisplay(child component)
+ 
 --------------------------------------------------------------
 
 ### `npm start`
