@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/winstoncwang/SeasonTracker.git/static/css/main.558f4046.chunk.css",
-    "main.js": "/winstoncwang/SeasonTracker.git/static/js/main.750d02a8.chunk.js",
-    "main.js.map": "/winstoncwang/SeasonTracker.git/static/js/main.750d02a8.chunk.js.map",
-    "runtime-main.js": "/winstoncwang/SeasonTracker.git/static/js/runtime-main.40ce04f9.js",
-    "runtime-main.js.map": "/winstoncwang/SeasonTracker.git/static/js/runtime-main.40ce04f9.js.map",
-    "static/js/2.1ddb16c0.chunk.js": "/winstoncwang/SeasonTracker.git/static/js/2.1ddb16c0.chunk.js",
-    "static/js/2.1ddb16c0.chunk.js.map": "/winstoncwang/SeasonTracker.git/static/js/2.1ddb16c0.chunk.js.map",
-    "index.html": "/winstoncwang/SeasonTracker.git/index.html",
-    "precache-manifest.adb82166c5a03526ceed9344d71525d2.js": "/winstoncwang/SeasonTracker.git/precache-manifest.adb82166c5a03526ceed9344d71525d2.js",
-    "service-worker.js": "/winstoncwang/SeasonTracker.git/service-worker.js",
-    "static/css/main.558f4046.chunk.css.map": "/winstoncwang/SeasonTracker.git/static/css/main.558f4046.chunk.css.map",
-    "static/js/2.1ddb16c0.chunk.js.LICENSE.txt": "/winstoncwang/SeasonTracker.git/static/js/2.1ddb16c0.chunk.js.LICENSE.txt"
+    "main.css": "/SeasonTracker/static/css/main.558f4046.chunk.css",
+    "main.js": "/SeasonTracker/static/js/main.750d02a8.chunk.js",
+    "main.js.map": "/SeasonTracker/static/js/main.750d02a8.chunk.js.map",
+    "runtime-main.js": "/SeasonTracker/static/js/runtime-main.a5c0c5a5.js",
+    "runtime-main.js.map": "/SeasonTracker/static/js/runtime-main.a5c0c5a5.js.map",
+    "static/js/2.1ddb16c0.chunk.js": "/SeasonTracker/static/js/2.1ddb16c0.chunk.js",
+    "static/js/2.1ddb16c0.chunk.js.map": "/SeasonTracker/static/js/2.1ddb16c0.chunk.js.map",
+    "index.html": "/SeasonTracker/index.html",
+    "precache-manifest.ad48fad1d174bb5de437b536f4b0bc1d.js": "/SeasonTracker/precache-manifest.ad48fad1d174bb5de437b536f4b0bc1d.js",
+    "service-worker.js": "/SeasonTracker/service-worker.js",
+    "static/css/main.558f4046.chunk.css.map": "/SeasonTracker/static/css/main.558f4046.chunk.css.map",
+    "static/js/2.1ddb16c0.chunk.js.LICENSE.txt": "/SeasonTracker/static/js/2.1ddb16c0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.40ce04f9.js",
+    "static/js/runtime-main.a5c0c5a5.js",
     "static/js/2.1ddb16c0.chunk.js",
     "static/css/main.558f4046.chunk.css",
     "static/js/main.750d02a8.chunk.js"
